@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @BlitzAir0000
-- 👀 I’m interested in ... Programing in python and making wesites 🧑‍💻
-- 🌱 I’m currently learning ... Python JavaScript CSS and HTML 💻
-- 💞️ I’m looking to collaborate on ... Python projects 🐍
+- 👀 I’m interested in ... Programming in Python and Java
+- 🌱 I’m currently learning ... How to use and Make AI 💻
+- 💞️ I’m looking to collaborate on ... Making AI Projects 🤖
 - 📫 How to reach me ... @BlitzAir0000 📌
 - 😄 Pronouns: ... He 🙇‍♂️
-- ⚡ Fun fact: ... I like Books 📚
+- ⚡ Fun fact: ... I like video games 🎮
 
 <!---
 BlitzAir0000/BlitzAir0000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
